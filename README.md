@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Essa220804
-- 👀 I’m interested in Developing WebApps!
-- 🌱 I’m currently learning in depth Python and HTML
+- 👀 I would like to develop WebApps and iOS apps!
+- 🌱 I’m currently learning in depth Python and HTML.
 - 💞️ I’m looking to collaborate in Hackathons and other coding events
 - 📫 How to reach me: essa.sadat@student.tdsb.on.ca OR essasadat335@gmail.com
 
